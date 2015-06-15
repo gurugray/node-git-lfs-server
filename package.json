@@ -1,0 +1,16 @@
+{
+    "name": "git-lfs-server",
+    "version": "0.0.1",
+    "description": "NodeJS LFS server is an server that implements the Git LFS API.",
+    "author": { "name": "Sergey Sergeev", "email": "gurugray@yandex.ru", "url": "http://gurugray.ru/" },
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/gurugray/node-git-lfs-server.git"
+    },
+    "dependencies": {
+      "restify": "^3.0.3"
+    },
+    "engines": { "node": ">= 0.10.0" },
+    "license": "MIT",
+    "keywords": ["git", "git-lfs", "git-lfs-server"]
+}
